@@ -31,45 +31,47 @@ const worktimeline = [{
     },
 ];
 
+const activitytimeline = [{
+        jobtitle: "Finance Staff",
+        where: "UC San Diego Association for Computing Machinery",
+        date: "Oct. 2024 - Present",
+    },
+    {
+        jobtitle: "General member",
+        where: "UC San Diego Data International Competitive Programming Club",
+        date: "Oct. 2024 - Present",
+    },
+];
+
 const skills = [{
         name: "Python",
-        value: 90,
     },
     {
         name: "Java",
-        value: 85,
     },
     {
         name: "JavaScript",
-        value: 80,
     },
     {
         name: "SQL",
-        value: 60,
     },
     {
         name: "C++",
-        value: 85,
     },
     {
         name: "HTML/CSS",
-        value: 85,
     },
     {
         name: "R",
-        value: 85,
     },
     {
         name: "pandas",
-        value: 85,
     },
     {
         name: "scikit-learn",
-        value: 85,
     },
     {
         name: "BeautifulSoup",
-        value: 85,
     },
 ];
 
@@ -88,72 +90,26 @@ const services = [{
 ];
 
 const dataportfolio = [{
-        img: "https://picsum.photos/400/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
+        img: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fcoolbackgrounds.io%2Fwhite-background%2F&psig=AOvVaw2ztb7OQMA7MnJEa3H7_FyP&ust=1736796927542000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLC83vH28IoDFQAAAAAdAAAAABAE",
+        description: "Recipe Analysis Model",
+        link: "aprilhuang39.github.io/recipe-analysis/",
+    },
+    {
+        img: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fcoolbackgrounds.io%2Fwhite-background%2F&psig=AOvVaw2ztb7OQMA7MnJEa3H7_FyP&ust=1736796927542000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLC83vH28IoDFQAAAAAdAAAAABAE",
+        description: "Image Processing and Classification App",
         link: "#",
     },
     {
-        img: "https://picsum.photos/400/800/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/600/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/300/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/700/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-
-    {
-        img: "https://picsum.photos/400/600/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/300/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/550/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/700/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        img: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fcoolbackgrounds.io%2Fwhite-background%2F&psig=AOvVaw2ztb7OQMA7MnJEa3H7_FyP&ust=1736796927542000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLC83vH28IoDFQAAAAAdAAAAABAE",
+        description: "Software Developer - UC San Diego Data Science Student Society (DS3)",
+        link: "ds3ucsd.com",
     },
 ];
 
 const contactConfig = {
     YOUR_EMAIL: "aphuang@ucsd.edu",
     YOUR_FONE: "(925)487-6217",
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vehicula eu nunc et sollicitudin. Cras pulvinar, nisi at imperdiet pharetra. ",
+    // description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vehicula eu nunc et sollicitudin. Cras pulvinar, nisi at imperdiet pharetra. ",
     // creat an emailjs.com account 
     // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
     YOUR_SERVICE_ID: "service_id",
@@ -172,6 +128,7 @@ export {
     dataabout,
     dataportfolio,
     worktimeline,
+    activitytimeline,
     skills,
     services,
     introdata,
