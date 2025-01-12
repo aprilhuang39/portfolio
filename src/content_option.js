@@ -92,7 +92,7 @@ const services = [{
 const dataportfolio = [{
         img: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fcoolbackgrounds.io%2Fwhite-background%2F&psig=AOvVaw2ztb7OQMA7MnJEa3H7_FyP&ust=1736796927542000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLC83vH28IoDFQAAAAAdAAAAABAE",
         description: "Recipe Analysis Model",
-        link: "aprilhuang39.github.io/recipe-analysis/",
+        link: "http://aprilhuang39.github.io/recipe-analysis/",
     },
     {
         img: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fcoolbackgrounds.io%2Fwhite-background%2F&psig=AOvVaw2ztb7OQMA7MnJEa3H7_FyP&ust=1736796927542000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLC83vH28IoDFQAAAAAdAAAAABAE",
@@ -102,7 +102,7 @@ const dataportfolio = [{
     {
         img: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fcoolbackgrounds.io%2Fwhite-background%2F&psig=AOvVaw2ztb7OQMA7MnJEa3H7_FyP&ust=1736796927542000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLC83vH28IoDFQAAAAAdAAAAABAE",
         description: "Software Developer - UC San Diego Data Science Student Society (DS3)",
-        link: "ds3ucsd.com",
+        link: "https://ds3ucsd.com",
     },
 ];
 
