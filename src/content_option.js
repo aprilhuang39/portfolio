@@ -29,6 +29,11 @@ const worktimeline = [{
         where: "UC San Diego Data Science Student Society",
         date: "Oct. 2024 - Present",
     },
+    {
+        jobtitle: "Analyst",
+        where: "Triton Consulting Group",
+        date: "Jan. 2025 - Present",
+    }
 ];
 
 const activitytimeline = [{
