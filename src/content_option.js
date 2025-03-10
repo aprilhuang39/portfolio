@@ -38,7 +38,7 @@ const activitytimeline = [{
     },
     {
         jobtitle: "General member",
-        where: "UC San Diego Data International Competitive Programming Club",
+        where: "UC San Diego International Competitive Programming Club",
         date: "Oct. 2024 - Present",
     },
 ];

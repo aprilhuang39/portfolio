@@ -97,13 +97,13 @@ export const About = () => {
         <Row className="sec_sp">
           <Col lg="12">
             <h3 className="color_sec py-4">Skills</h3>
-            <ul className="list-unstyled">
+            <div className="skills-container mb-5">
               {skills.map((data, i) => (
-                <li key={i} className="mb-2">
-                  <h4 className="skill-name">{data.name}</h4>
-                </li>
+                <span key={i} className="skill-badge fs-6 me-2 mb-2">
+                  {data.name}
+                </span>
               ))}
-            </ul>
+            </div>
           </Col>
         </Row>
 
